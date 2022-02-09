@@ -23,6 +23,7 @@ header{
     text-transform: uppercase;
     position: relative;
     align-items: center;
+    
 }
 
 header nav ul{
@@ -30,7 +31,7 @@ header nav ul{
     height: 10vh;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;    
+    flex-direction: row; 
     justify-content: space-around;
     align-items: center;
 }
@@ -73,6 +74,15 @@ header div{
 }
 
 /*MAIN*/
+main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: space-around;
+    background-color: #43a7e0;
+}
 
 /*FOOTER*/
 footer{
