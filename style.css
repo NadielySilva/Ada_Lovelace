@@ -81,7 +81,6 @@ main{
     flex-wrap: wrap;
     position: relative;
     justify-content: space-around;
-    /* background-color: #43a7e0; */
 }
 
 main section{
@@ -165,6 +164,19 @@ main .images{
     height: 25vh;
     grid-area: 2/3;
     background-color: cadetblue;
+}
+
+.fun-facts h3{
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: 400;
+    margin-left: 2vw;
+}
+
+main hr{
+    width: 95%;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 
 /*FOOTER*/
