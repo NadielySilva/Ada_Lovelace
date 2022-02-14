@@ -24,7 +24,7 @@ header{
     height: 40vh;
     position: relative;
     align-items: center;
-    background-image: url('./Assets/Desenho\ da\ Máquina\ Analítica\ de\ Babbage\ feito\ por\ Lovelace.jpg');
+    background-image: url('./Assets/Desenho\ da\ Máquina\ Analítica\ de\ Babbage\ feito\ por\ Lovelace.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -72,7 +72,7 @@ header div{
     left: 7.5%;
     bottom: 6.25%;
     z-index: 1;
-    background-color: #ace0fc;
+    background-color: #c3bdb6;
     border: 0.25vh solid #002d57;
     border-radius: 0.25vh 0.25vw;
 }
@@ -127,11 +127,17 @@ main figure{
     margin-left: 2vw;
 }
 
-figure .ada-age4{
+image .ada-age4{
+    width: 25vw;
+    height: 40vh;
+    float: left;
+}
+
+/* figure img .ada-age4{
     width: auto;
     height: auto;
     float: left;
-}
+} */
 
 main .images{
     width: 100%;

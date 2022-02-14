@@ -1,5 +1,16 @@
 PROPÓSITO
-    
+    Vamos relembrar alguns detalhes sobre HTML e CSS pra chegar com ainda mais força nos estudos. 
+    Escolha uma das figuras históricas mencionadas na nossa aula e monte uma página simples com apenas HTML e CSS.
+
+
+    ADA LOVELACE.
+    LEONARDO DA VINCI
+    FRIDA KAHLO 
+    VINCENT VAN GOGH
+
+
+    *Lembrando que as entregas são feitas através do GITHUB
+
 PROPÓSITO
 
 BIBLIOGRAFIA
